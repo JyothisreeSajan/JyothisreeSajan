@@ -41,7 +41,3 @@ As I step into 2025, I realize how far I've come. What began as a passion nurtur
 ### 🌍 **Let’s Collaborate!**  
 I love collaborating on projects, solving real-world problems, and pushing the boundaries of innovation. If you're interested in **AI**, **IoT**, **robotics**, or **machine vision**, feel free to explore my repositories and reach out for collaboration! 🌟  
 
----
-
-**Ready to revolutionize the future of robotics? Let's connect!**  
-🔗 [LinkedIn](www.linkedin.com/in/jyothisree-sajan-45b1ab212)  | 🌐 [GitHub Repositories](https://github.com/JyothisreeSajan)
