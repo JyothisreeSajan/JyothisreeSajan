@@ -9,9 +9,9 @@ I blend the power of **Robotics**, **AI**, **IoT**, and **Computer Vision** to d
 ### 🌟 **My Areas of Passion**  
 - 🤖 **Robotics**: Dive into the world of ROS2, building and simulating autonomous robots with advanced kinematics.  
 - 🌐 **IoT & Industrial IoT**: Building scalable, secure IoT systems using **AWS**, **IoT Greengrass**, and **Raspberry Pi**.  
-- 🧠 **AI & Machine Learning**: Harnessing the power of **PyTorch**, **Ollama**, and **Stable Diffusion** to create intelligent solutions that learn and adapt.  
-- 📸 **Computer Vision**: Using **OpenCV**, **MediaPipe**, and **Stable Diffusion** to bring visual intelligence to robots.  
-- 💬 **NLP**: Exploring the potential of **Natural Language Processing** to create more intuitive and conversational systems.  
+- 🧠 **AI & Machine Learning**: Harnessing the power of **Ollama**, and **Stable Diffusion** to create intelligent solutions that learn and adapt.  
+- 📸 **Computer Vision**: Using **OpenCV**, **MediaPipe**, and **PyTorch** to bring visual intelligence to robots.  
+  
 
 ---
 
